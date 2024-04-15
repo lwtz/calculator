@@ -1,25 +1,21 @@
-Esta calculadora simples foi desenvolvida com JavaScript e HTML para fornecer uma interface amigável e funcional para realizar operações matemáticas básicas.
+ 
+This simple calculator has been developed with JavaScript and HTML to provide a user-friendly and functional interface for performing basic mathematical operations.
+Features:
+- Addition
+- Subtraction
+- Multiplication
+- Division
+- Delete
+- Clear
 
-Funcionalidades
-
-- Adição
-- Subtração
-- Multiplicação
-- Divisão
-- Apagar
-- Limpar
-
-
-Tecnologias Utilizadas:
+Technologies used:
 
 `JavaScript
 HTML
 CSS
 `
 
-Como Usar:
-
-- Clone o repositório ou baixe o código-fonte.
-- Abra o arquivo index.html em seu navegador.
-- Utilize os botões na tela para realizar os cálculos.
-
+How to use:
+- Clone the repository or download the source code.
+- Open the index.html file in your browser.
+- Use the buttons on the screen to perform the calculations. 
